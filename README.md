@@ -25,6 +25,7 @@ How to run:
 
 
 FAQ:
-- "why is the code not running?" -> there could be many possibility behind why the code does not run such as: - no data input - hardware incompatibility
-
-- "why is the AI doesnt predict the data for my house?" -> some issues may occur regarding the AI because the data we use is a dummy data for small watts
+- "Why is the code not running?" 
+  -> There could be many possibilities behind why the code isn't running, such as: no data input, hardware incompatibility
+- "Why is the AI doesnt predict the data for my house?"
+  -> Some issues may occur regarding the AI because the data we used is a dummy data for smaller watts
