@@ -17,7 +17,7 @@ Features:
 
 How to run:
 - Download Flutter & Dart (https://www.youtube.com/watch?v=2svrbgcHZew)
-- Download our files in open them in Visual Studio Code
+- Download our files and open them in Visual Studio Code
 - Open the "lib/mine.dart" file, and type "flutter run" in the terminal
 - The Weather Dashboard should appear as shown:
 ![Weather Dashboard Image](https://github.com/user-attachments/assets/d145d05a-7d37-4e82-846f-94e9bd2757de)
