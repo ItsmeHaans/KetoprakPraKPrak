@@ -22,3 +22,9 @@ How to run:
 - The Weather Dashboard should appear as shown:
 ![Weather Dashboard Image](https://github.com/user-attachments/assets/d145d05a-7d37-4e82-846f-94e9bd2757de)
 
+
+
+FAQ:
+- "why is the code not running?" -> there could be many possibility behind why the code does not run such as: - no data input - hardware incompatibility
+
+- "why is the AI doesnt predict the data for my house?" -> some issues may occur regarding the AI because the data we use is a dummy data for small watts
