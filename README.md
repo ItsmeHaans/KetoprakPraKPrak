@@ -16,13 +16,26 @@ Features:
 - Eco-Friendly: Helps reduce energy waste and supports sustainable living.
 
 How to run:
+Frontend:
 - Download Flutter & Dart (https://www.youtube.com/watch?v=2svrbgcHZew)
 - Download our files and open them in Visual Studio Code
 - Open the "lib" folder and open the "main.dart" file, and type "flutter run" in the terminal
 - The Weather Dashboard should appear as shown:
 ![Weather Dashboard Image](https://github.com/user-attachments/assets/d145d05a-7d37-4e82-846f-94e9bd2757de)
 
+Backed:
+For the backend, we use Microsoft Azure Studio and since the VSCode cant import the azure library, You can run it by open the Solar(2).ipynb on Microsoft Azure Studio using Azure kernel on this link :
+https://ml.azure.com/?tid=3485b963-82ba-4a6f-810f-b5cc226ff898&wsid=/subscriptions/a21d9b82-ce29-4faa-a409-cebb05762979/resourceGroups/ketopraksolar/providers/Microsoft.MachineLearningServices/workspaces/SolarPanel
 
+For predicting the output, you can change these input on this particular codes:
+![image](https://github.com/user-attachments/assets/5a67a425-0bec-4041-895b-cc7dd5d73485)
+Which:
+- hour : The time right now, rounded into hour
+- energy_usage_kw = house uses energy right now
+- daylight_hours =
+- dayofweek = the day of the week on index (Ex : Monday = 1, Tuesday = 2, Wednesday = 3, etc)
+- month = today's month on index (Ex : January = 1, February = 2, March = 3, etc)
+- retrain = selective mode if you want this data included into trained data
 
 FAQ:
 - "Why is the code not running?" 
