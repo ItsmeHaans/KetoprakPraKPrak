@@ -32,7 +32,7 @@ For predicting the output, you can change these input on this particular codes:
 Which:
 - hour : The time right now, rounded into hour
 - energy_usage_kw = house uses energy right now
-- daylight_hours =
+- daylight_hours = efective time for the solar panel to get the solar power from the sun
 - dayofweek = the day of the week on index (Ex : Monday = 1, Tuesday = 2, Wednesday = 3, etc)
 - month = today's month on index (Ex : January = 1, February = 2, March = 3, etc)
 - retrain = selective mode if you want this data included into trained data
